@@ -7,6 +7,6 @@
 
 int main()
 {
-    printf("%d\n", addition(1,4));
+    printf("L'addition de 1 et 4 vaut : %d\n", addition(1,4));
     return 0;
 }
